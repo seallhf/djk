@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">随身宝</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">丹江口市防汛</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_table">降雨量统计</string>
+    <string name="title_activity_table_water">实时水位</string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_activity_weather">天气预报</string>
+    <string name="title_activity_tableall">TableallActivity</string>
+    <string name="title_activity_usual_listpage">相关链接</string>
+    <string name="title_activity_gps">GPS定位预警</string>
+    <string name="title_activity_radar_list">雷达预警监测</string>
+    <string name="title_activity_video_play">在线培训</string>
+    <string name="title_activity_train_main">TrainMainActivity</string>
+    <string name="title_activity_smain">SMainActivity</string>
+    <string name="title_activity_emergency_tel">救灾热线</string>
+    <string name="title_activity_search_main">汛情查询</string>
+    <string name="search_prompt">查询类型：</string>
+    <string name="search_location_prompt">水库名称：</string>
+    <string name="search_start_prompt">起点：</string>
+    <string name="search_end_prompt">终点：</string>
+    <string name="search_street_prompt">街道名称：</string>
+    <string name="title_activity_qunce_main">群测报讯</string>
+    <string name="title_activity_qunce">群测报讯</string>
+
+</resources>

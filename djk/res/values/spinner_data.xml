@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="searchSelect">
+        <item>1小时雨量（最多可查连续48小时）</item>
+        <item>8时（日）雨量（最多可查连续31天）</item>
+        <item>任意时刻水位</item>
+    </string-array>
+
+</resources>

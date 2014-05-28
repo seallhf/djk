@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#C0C0C0"
+    android:gravity="center_vertical|bottom|top"
+    android:orientation="vertical" >
+
+    <com.example.djk.LoadingView
+        android:id="@+id/main_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/loader_frame_1" >
+    </com.example.djk.LoadingView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:text="丹江口市防汛"
+        android:textColor="#666666"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/UsualtextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_vertical"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="成都大数时代科技有限公司"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="5dp"
+        android:text="Copyright © 2013. All Rights Reserved "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="8sp" />
+
+</FrameLayout>

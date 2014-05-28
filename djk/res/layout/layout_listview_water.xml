@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="fill_parent"  
+    android:orientation="horizontal" 
+    android:id="@+id/layout_listview_water"
+    >  
+  
+    <View  
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />  
+  
+    <TextView  
+        android:id="@+id/_name"  
+        android:layout_width="100dip"  
+        android:layout_height="55dip"
+        android:gravity="center"  
+        android:textColor="#000000"  
+        android:textSize="20sp" />  
+  
+    <View  
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />  
+  
+    <TextView  
+        android:id="@+id/lastedTime"  
+        android:layout_width="250dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View  
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" /> 
+    
+   <TextView  
+        android:id="@+id/tviewwater0"  
+        android:layout_width="175dip"
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View  
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />  
+  
+    <TextView  
+        android:id="@+id/tviewwater8"  
+        android:layout_width="150dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />    
+  
+    <View  
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />  
+  
+    <TextView  
+        android:id="@+id/tviewwater16"  
+        android:layout_width="150dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />
+    
+    <TextView  
+        android:id="@+id/xianxunlevel"  
+        android:layout_width="150dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />
+    
+    <TextView  
+        android:id="@+id/zhunbeizhuanyilevel"  
+        android:layout_width="150dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />
+    
+    <TextView  
+        android:id="@+id/likezhuanyilevel"  
+        android:layout_width="150dip"  
+        android:layout_height="55dip"  
+        android:gravity="center"
+        android:textColor="#000000"  
+        android:textSize="20sp" />   
+  
+    <View
+        android:layout_width="0.5px"  
+        android:layout_height="fill_parent"  
+        android:background="#B8B8B8"  
+        android:visibility="visible" />
+  
+</LinearLayout>  

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="street">
+        <item>丹赵路</item>
+        <item>三官殿</item>
+        <item>新港</item>
+        <item>土关垭</item>
+        <item>牛河</item>
+        <item>浪河</item>
+        <item>丁家营</item>
+        <item>均县</item>
+        <item>龙山</item>
+        <item>盐池河</item>
+        <item>白杨坪</item>
+        <item>官山</item>
+        <item>六里坪</item>
+        <item>习家店</item>
+        <item>大沟</item>
+        <item>蒿坪</item>
+        <item>石鼓</item>
+        <item>凉水河</item>
+    </string-array>
+
+</resources>

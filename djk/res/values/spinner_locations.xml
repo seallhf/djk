@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="locations">
+        <item>许家畈</item>
+        <item>吕家河</item>
+        <item>太极峡</item>
+        <item>白杨坪</item>
+        <item>金岗</item>
+        <item>大柏河</item>
+        <item>三岔河</item>
+        <item>堰湾</item>
+        <item>新庙河</item>
+        <item>椴树垭</item>
+        <item>寨怀沟</item>
+        <item>程家沟</item>
+        <item>白石河</item>
+        <item>红山石</item>
+        <item>官亭</item>
+        <item>洞子沟</item>
+        <item>簸箩岩</item>
+        <item>十条沟</item>
+        <item>左绞河</item>
+        <item>核桃园</item>
+        <item>黑垭</item>
+        <item>岗河</item>
+        <item>后湾一库</item>
+        <item>土台</item>
+        <item>黑石沟</item>
+        <item>凤凰山</item>
+        <item>八里寨</item>
+        <item>双庙河</item>
+        <item>小柏营</item>
+    </string-array>
+
+</resources>
